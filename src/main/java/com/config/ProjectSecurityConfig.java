@@ -1,4 +1,4 @@
-package com.example.config;
+package com.config;
 
 import org.springframework.boot.security.autoconfigure.web.servlet.SecurityFilterProperties;
 import org.springframework.context.annotation.Bean;
